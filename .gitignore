@@ -1,3 +1,7 @@
+# project ignore
+*ad-hoc*
+env.sh
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
